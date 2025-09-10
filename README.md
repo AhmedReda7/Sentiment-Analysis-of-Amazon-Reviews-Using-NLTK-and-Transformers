@@ -57,25 +57,5 @@ Dataset: [Amazon Fine Food Reviews (Kaggle)](https://www.kaggle.com/datasets/sna
    streamlit run app.py
 5. Open in browser → Enter a review → Get sentiment predictions from **VADER and RoBERTa**.
 
-## Example Results
 
-1. ### VADER Example
-```json
-{
-  "neg": 0.2,
-  "neu": 0.6,
-  "pos": 0.2,
-  "compound": 0.0
-}
-ذذ```````
-## Example Results
-
-2. ### RoBERTa Example
-
-```json
-{
-  "RoBERTa Negative": 0.15,
-  "RoBERTa Neutral": 0.10,
-  "RoBERTa Positive": 0.75
-}
 ذذذذذ
