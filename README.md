@@ -56,8 +56,8 @@ Dataset: [Amazon Fine Food Reviews (Kaggle)](https://www.kaggle.com/datasets/sna
    ```bash
    streamlit run app.py
 5. Open in browser → Enter a review → Get sentiment predictions from **VADER and RoBERTa**.
-6. 
-## 📊 Example Results
+
+## Example Results
 
 ### VADER Example
 ```json
@@ -67,6 +67,8 @@ Dataset: [Amazon Fine Food Reviews (Kaggle)](https://www.kaggle.com/datasets/sna
   "pos": 0.2,
   "compound": 0.0
 }
+
+
 ### RoBERTa Example
 ```json
 {
